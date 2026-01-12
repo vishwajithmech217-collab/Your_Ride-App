@@ -1,1 +1,49 @@
+[
+  {
+    "id": "yamaha_mt15",
+    "brand": "Yamaha",
+    "model": "MT-15",
 
+    "type": "bike",
+    "category": "street",
+
+    "engine": "155cc",
+    "fuel": "petrol",
+
+    "seatHeight": 810,
+    "kerbWeight": 141,
+
+    "usage": {
+      "city": 70,
+      "highway": 80
+    },
+
+    "era": "bs6",
+    "launchYear": 2020,
+    "skillLevel": "intermediate"
+  },
+
+  {
+    "id": "honda_activa_6g",
+    "brand": "Honda",
+    "model": "Activa 6G",
+
+    "type": "scooter",
+    "category": "commuter",
+
+    "engine": "110cc",
+    "fuel": "petrol",
+
+    "seatHeight": 765,
+    "kerbWeight": 106,
+
+    "usage": {
+      "city": 90,
+      "highway": 40
+    },
+
+    "era": "bs6",
+    "launchYear": 2021,
+    "skillLevel": "beginner"
+  }
+]
