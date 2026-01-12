@@ -1,1 +1,9 @@
-
+{
+  id: "yamaha_mt15",
+  name: "MT-15",
+  type: "Bike",
+  category: "Street",
+  engine: "155cc",
+  launchYear: 2020,
+  era: "modern" // REQUIRED
+}
