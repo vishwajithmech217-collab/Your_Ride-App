@@ -26,5 +26,6 @@ export default function App() {
         />
       </Stack.Navigator>
     </NavigationContainer>
+<Stack.Screen name="SelectRide" component={SelectRideScreen} />
   );
 }
